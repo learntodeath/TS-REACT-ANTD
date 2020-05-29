@@ -7,6 +7,7 @@ function App() {
       <Button className='btn btn-sm' btnType='primary'>按钮</Button>
       <Button className='btn btn-primary' btnType='danger'>按钮</Button>
       <Button className='btn btn-danger'>按钮</Button>
+      <p></p>
     </div>
   );
 }
